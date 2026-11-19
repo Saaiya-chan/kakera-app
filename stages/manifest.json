@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "includeScenes": false,
+  "stages": [
+    {
+      "id": "ai-fox-mask-and-torii-7213bb7c",
+      "kind": "ai",
+      "title": {
+        "ja": "狐面と鳥居",
+        "en": "Fox mask and torii"
+      },
+      "file": "ai-fox-mask-and-torii-7213bb7c.jpg"
+    }
+  ]
+}
